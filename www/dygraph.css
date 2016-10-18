@@ -1,0 +1,26 @@
+
+.dygraph-axis-label {
+
+}
+.dygraph-ylabel {
+  color: #8DA0CB; 
+}
+.dygraph-y2label {
+  color: #66C2A5; 
+}
+.dygraph-legend {
+  font-size: 12px !important;
+  left: 80px !important;
+  top: 20px !important;
+  background: transparent !important;
+}
+.dygraph-legend span {
+  color: #66C2A5;
+}
+.dygraph-legend span + br + span {
+  color: #8DA0CB;
+}
+.dygraph-rangesel-zoomhandle{
+  visibility: hidden !important;
+}
+
